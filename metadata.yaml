@@ -1,5 +1,8 @@
 _repo: A-B-C-of-housekeeping_75560
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75560-h/images/cover.jpg
 creator:
   author:
     agent_name: Herrick, Christine Terhune
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37734
     wikipedia: https://en.wikipedia.org/wiki/Christine_Terhune_Herrick
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75560#A-B-C-of-housekeeping
 gutenberg_issued: '2025-03-08'
 gutenberg_type: Text
 identifiers:
